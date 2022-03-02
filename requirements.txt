@@ -1,0 +1,5 @@
+flask
+flask_sqlalchemy
+mysql-connector-python
+mysqlclient
+https://www.youtube.com/watch?v=WDpPGFkI9UU ==> crud com flask e mysql
